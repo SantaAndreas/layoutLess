@@ -7,16 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve"
   },
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {}
-    }
-  },
-  "browserslist": [
-    "last 2 version",
-    "not dead",
-    "iOS >= 9"
-  ],
   "author": "Andrey Blashchuk",
   "license": "ISC",
   "devDependencies": {
